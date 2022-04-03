@@ -17,3 +17,4 @@ Data-oriented astronomy
 
 * Problems: irregular sampling leading to missing data, noise due to atmosphere and instrument errors, multiple bandwidths
 
+* Features are extracted from the light curves for ML
